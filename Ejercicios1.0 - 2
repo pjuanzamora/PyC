@@ -1,0 +1,12 @@
+Algoritmo Ejercicio2
+	Definir num1, num2, suma Como Entero;
+	
+	Escribir "Dime dos números";
+	Leer num1;
+	Leer num2;
+	
+	suma = num1+num2;
+	Escribir num1, " + ", num2, " = ", (num1+num2);
+	
+	
+FinAlgoritmo
